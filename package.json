@@ -14,6 +14,7 @@
     "express": "^4.17.1"
   },
   "devDependencies": {
-    "@types/async-redis": "^1.1.1"
+    "@types/async-redis": "^1.1.1",
+    "nodemon": "^2.0.4"
   }
 }
